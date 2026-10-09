@@ -1,17 +1,8 @@
-# project_aplikasi_mobile
+# Progress Kelompok 3 - Aplikasi UMKM Sendal
 
-A new Flutter project.
+Saat ini progress kami sedang dalam tahap perancangan UI/UX (Mockup). 
 
-## Getting Started
+🔗 **Link Figma:** 
+[Klik di sini untuk melihat desain Figma kami](https://www.figma.com/design/blW0eJUu9tbpEPd3AN7XlY/Untitled?node-id=0-1&t=XDbgkyMjSzWSFVIt-1)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut adalah beberapa hasil tangkapan layar desain kami
